@@ -1,5 +1,7 @@
 # 💰 Online Expense Tracker
-     A Java-based web application to track and manage your daily expenses efficiently.
+     A Java-based web application that helps users record and manage daily expenses.
+     It uses JSP, Servlets, JDBC, and MySQL to add, view, and organize expenses account-wise.
+     User can track spending history and can also view total expenses through a simple web interface.
     
 # 📌 Features
      - 🔐 User registration and login
